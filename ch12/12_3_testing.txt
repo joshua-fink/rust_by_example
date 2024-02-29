@@ -1,0 +1,11 @@
+Place unit tests and integration tests in own tests/ directory
+
+Each file in tests is separate integration test, test meant to test library
+if it was being called from a dependent crate
+
+Three testing styles: Unit, Doc, Integration
+
+cargo provides easy way to run all tests -> `cargo test` lol
+
+cargo may run multiple tests concurrently, avoid race conditions
+

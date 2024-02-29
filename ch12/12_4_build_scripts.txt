@@ -1,0 +1,15 @@
+Sometimes normal cargo build not enough -> maybe code needs...
+- some prerequisites before cargo can successfully compile
+- code generation
+- native code that needs to be compiled
+
+Add a build script like this
+[package]
+...
+build = "build.rs"
+Specify for cargo will look for build.rs by default
+
+Build script simply is Rust file that will be compiled and invoked
+before rest of package
+
+Build script provides output via stdout

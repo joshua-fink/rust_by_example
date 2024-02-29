@@ -1,0 +1,11 @@
+C:\Users\fink_\Desktop\rust_by_example\ch12\foo\target\debug\deps\libgetrandom-fc3264852fdbbfd2.rmeta: C:\Users\fink_\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\lib.rs C:\Users\fink_\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\error.rs C:\Users\fink_\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\util.rs C:\Users\fink_\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\error_impls.rs C:\Users\fink_\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\windows.rs
+
+C:\Users\fink_\Desktop\rust_by_example\ch12\foo\target\debug\deps\libgetrandom-fc3264852fdbbfd2.rlib: C:\Users\fink_\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\lib.rs C:\Users\fink_\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\error.rs C:\Users\fink_\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\util.rs C:\Users\fink_\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\error_impls.rs C:\Users\fink_\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\windows.rs
+
+C:\Users\fink_\Desktop\rust_by_example\ch12\foo\target\debug\deps\getrandom-fc3264852fdbbfd2.d: C:\Users\fink_\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\lib.rs C:\Users\fink_\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\error.rs C:\Users\fink_\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\util.rs C:\Users\fink_\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\error_impls.rs C:\Users\fink_\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\windows.rs
+
+C:\Users\fink_\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\lib.rs:
+C:\Users\fink_\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\error.rs:
+C:\Users\fink_\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\util.rs:
+C:\Users\fink_\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\error_impls.rs:
+C:\Users\fink_\.cargo\registry\src\index.crates.io-6f17d22bba15001f\getrandom-0.2.12\src\windows.rs:

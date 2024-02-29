@@ -1,0 +1,12 @@
+C:\Users\fink_\Desktop\rust_by_example\ch12\foo\target\debug\deps\librand_core-288a8b6094a6021f.rmeta: C:\Users\fink_\.cargo\git\checkouts\rand-02690058d91f0548\7ff0fc9\rand_core\src\lib.rs C:\Users\fink_\.cargo\git\checkouts\rand-02690058d91f0548\7ff0fc9\rand_core\src\block.rs C:\Users\fink_\.cargo\git\checkouts\rand-02690058d91f0548\7ff0fc9\rand_core\src\error.rs C:\Users\fink_\.cargo\git\checkouts\rand-02690058d91f0548\7ff0fc9\rand_core\src\impls.rs C:\Users\fink_\.cargo\git\checkouts\rand-02690058d91f0548\7ff0fc9\rand_core\src\le.rs C:\Users\fink_\.cargo\git\checkouts\rand-02690058d91f0548\7ff0fc9\rand_core\src\os.rs
+
+C:\Users\fink_\Desktop\rust_by_example\ch12\foo\target\debug\deps\librand_core-288a8b6094a6021f.rlib: C:\Users\fink_\.cargo\git\checkouts\rand-02690058d91f0548\7ff0fc9\rand_core\src\lib.rs C:\Users\fink_\.cargo\git\checkouts\rand-02690058d91f0548\7ff0fc9\rand_core\src\block.rs C:\Users\fink_\.cargo\git\checkouts\rand-02690058d91f0548\7ff0fc9\rand_core\src\error.rs C:\Users\fink_\.cargo\git\checkouts\rand-02690058d91f0548\7ff0fc9\rand_core\src\impls.rs C:\Users\fink_\.cargo\git\checkouts\rand-02690058d91f0548\7ff0fc9\rand_core\src\le.rs C:\Users\fink_\.cargo\git\checkouts\rand-02690058d91f0548\7ff0fc9\rand_core\src\os.rs
+
+C:\Users\fink_\Desktop\rust_by_example\ch12\foo\target\debug\deps\rand_core-288a8b6094a6021f.d: C:\Users\fink_\.cargo\git\checkouts\rand-02690058d91f0548\7ff0fc9\rand_core\src\lib.rs C:\Users\fink_\.cargo\git\checkouts\rand-02690058d91f0548\7ff0fc9\rand_core\src\block.rs C:\Users\fink_\.cargo\git\checkouts\rand-02690058d91f0548\7ff0fc9\rand_core\src\error.rs C:\Users\fink_\.cargo\git\checkouts\rand-02690058d91f0548\7ff0fc9\rand_core\src\impls.rs C:\Users\fink_\.cargo\git\checkouts\rand-02690058d91f0548\7ff0fc9\rand_core\src\le.rs C:\Users\fink_\.cargo\git\checkouts\rand-02690058d91f0548\7ff0fc9\rand_core\src\os.rs
+
+C:\Users\fink_\.cargo\git\checkouts\rand-02690058d91f0548\7ff0fc9\rand_core\src\lib.rs:
+C:\Users\fink_\.cargo\git\checkouts\rand-02690058d91f0548\7ff0fc9\rand_core\src\block.rs:
+C:\Users\fink_\.cargo\git\checkouts\rand-02690058d91f0548\7ff0fc9\rand_core\src\error.rs:
+C:\Users\fink_\.cargo\git\checkouts\rand-02690058d91f0548\7ff0fc9\rand_core\src\impls.rs:
+C:\Users\fink_\.cargo\git\checkouts\rand-02690058d91f0548\7ff0fc9\rand_core\src\le.rs:
+C:\Users\fink_\.cargo\git\checkouts\rand-02690058d91f0548\7ff0fc9\rand_core\src\os.rs:
